@@ -1,4 +1,4 @@
-**Pick-and-Place Robot**
+<h2> **Pick-and-Place Robot** </h2>
 
 As part of **Engineering Exploration** course, to design and build a **Pick-and-Place Robot**, a system capable of transferring objects between predefined points with precision and efficiency.
 
