@@ -1,4 +1,4 @@
-**Project Spotlight: Pick-and-Place Robot**
+* **Pick-and-Place Robot** *
 
 As part of **Engineering Exploration** course, to design and build a **Pick-and-Place Robot**, a system capable of transferring objects between predefined points with precision and efficiency.
 
